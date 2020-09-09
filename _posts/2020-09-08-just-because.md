@@ -1,19 +1,17 @@
 ---
-layout: page
+layout: post
+title: Random Projects
+summary: The Miscellaneous Projects folder! Anything not deemed a somewhat major project or code falls in to this category.
+featured-img: emile-perron-190221
+categories: Fabrication Electronics Art
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Introduction
+Welcome to the miscellanea section! This is where all of the things that are too small to showcase on their own go. There won't be any boring documentation, just what I put into them - fun energy and laughs.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Everything here is the product of a "that would be kind of cool to try" moment plus a couple hours of work. There's a talking teddy bear and oscilloscope CRT among others. I had a blast working on them and imagine their only use being a small chance to make an internet stranger try to suppress a smile!
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Paddington
+[alt text](https://github.com/seth-so/portfolio/raw/master/assets/img/biosensor_array.png "concept biosensors array"){:height="700px" width="400px"} Here is some text
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
