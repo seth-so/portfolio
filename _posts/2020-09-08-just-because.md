@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just because
+title: just bebecause
 summary: The Miscellaneous Projects folder! Anything not deemed a somewhat major project or code falls in to this category.
 featured-img: emile-perron-190221
 categories: Fabrication Electronics Art
@@ -23,7 +23,7 @@ I promise its not just an audio file layered on top - I had to furiously type al
 
 <br />
 # Swing Coach
-![Swing Coach](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/batterup.JPG "dumpster fire"){: .center-image }
+![Swing Coach](https://github.com/seth-so/portfolio/raw/master/assets/img/justbebecause/batterup.JPG "dumpster fire"){: .center-image }
 
 This was a technology agnostic project in early school days (sophomore year?) before I knew how to make anything. The goal was to create a system to improve baseball bat-swing angle that was light weight and portable, specs predetermined. The end result was a modular stand assembly with a weight-shedded MDPE folding board.
 
@@ -34,7 +34,7 @@ The project actually had a "client" (non-paying 3rd party), and it was my first 
 # Infinity Box
 I'd wanted to make one of these ever since seeing my first infinity mirror, but never badly enough to make time. Well, quarantine happened and I got time to do so. So on one fine Saturday afternoon, I set out without a plan to make a box - and now I have one. The box is 13" x 13" x 12" made from acrylic applied with a one-way mirror film, framed with right angle pine trimmings from Home Depot, and all held together with general-purpose epoxy. The pine frame also hides a continous LED strip soldered in parallel to cover each inside edge. Below is a picture of the box with no lid covering a ceiling light!
 
-![Infinity Box](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/infinitybox.jpg "infinity box"){: .center-image }
+![Infinity Box](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/infinitybox.jpg "infinity box"){: .center-image }
 
 Fun fact, the original intent for this build was to house my PC - due to eyeballed tolerances and a lack of clamps (pieces were held together by hand while curing), it didn't quite work out.  Now it sits on my shelf as a showcase for various objects around the house. The whole experience really brought a new appreciation for having the right tools for the job (including microfiber cloths to clean the fingerprints)!
 
@@ -43,13 +43,13 @@ Fun fact, the original intent for this build was to house my PC - due to eyeball
 # Blender
 Blender was just one of those things that I decided to give a shot on a whim. I downloaded it thinking that it'd be super easy to pick it up since I have CAD sculpting experience, but boy was I wrong. My choice of learning method didn't quite speed things up either - I would skip to the hero shot of a tutorial video and try to recreate it on my own, using the actual content as hints. Solid in theory, except it took me about 6 hours to learn the UI that way.
 
-![Still Life](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/blender-stilllife.PNG "still life"){: .center-image }
+![Still Life](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/blender-stilllife.PNG "still life"){: .center-image }
 
 Against all self-imposed odds, I managed to push through the initial learning curve and made it to a satisfactory point in a picnic scene. The table texture is procedurally generated, the apples and knife are painted with real picture projections onto a UV unwrapping, the water drops and grapes were generated with the particle system, and the cloth and swiss cheese were positioned using the in-house physics simulator. As I said earlier, this isn't quite done. I have a list of things to add to the scene (crackers, wine bottle + glasses, pears, dates, etc...), but those will be added more leisurely since I'm comfortable where this things are.
 
-![Custom Blender](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/blender-cathy.JPG "Cathedral of Learning"){: .center-image } <br />
+![Custom Blender](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/blender-cathy.JPG "Cathedral of Learning"){: .center-image } <br />
 
-Wow, did I really get that good at Blender that I can model a near [photo-perfect scene](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/blender-cathy-compare.JPG){:target="_blank"}? Of course not, but the real answer is pretty cool as well: Google Maps satellite mode may look 2D, but it actually contains hidden GIS metadata created by IDRISI Taiga. I used RenderDoc for process injection into Google Chrome to extract the map frame data into an .rdc file. With the help of extensions, Blender can interpret these files, import the height data, and skin the model according to satellite imagery. Add a point light and we have a nice sunset. <br /><br />
+Wow, did I really get that good at Blender that I can model a near [photo-perfect scene](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/blender-cathy-compare.JPG){:target="_blank"}? Of course not, but the real answer is pretty cool as well: Google Maps satellite mode may look 2D, but it actually contains hidden GIS metadata created by IDRISI Taiga. I used RenderDoc for process injection into Google Chrome to extract the map frame data into an .rdc file. With the help of extensions, Blender can interpret these files, import the height data, and skin the model according to satellite imagery. Add a point light and we have a nice sunset. <br /><br />
 tl;dr - I made a 3D model from  Google Maps data - pretty cool, huh?
 
 <br />
@@ -62,7 +62,7 @@ I had the wonderful opportunity of designing and working on the physical compone
 <br />
 # Sketches
 Especially for engineers, the importance of sketching is super understated. It's an excellent real-time way to more clearly communicate with others and level expectations. I'm honestly surprised how many people readily dismiss it. It's better to spend 5 minutes sketching than committing hours to a CAD mock-up that the client doesn't even want. I'm definitely no artist, but I value it enough to practice! Check out some free-hand samples below:
-![sketch collage](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/sketch-collage.JPG "sketch collage"){: .center-image }
+![sketch collage](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/sketch-collage.JPG "sketch collage"){: .center-image }
 
 
 <br /><br />
@@ -72,3 +72,5 @@ Especially for engineers, the importance of sketching is super understated. It's
 To cap things off is a project near and dear to my heart - my first electrical engineering project. This was the very definition of an amateur experience - solo late night near-death experiences, devolving my only laptop into an uncontrollable tinnitus machine, and best of all completely blowing out a university class' iMac right before final presentations were due. There are so many stories tied to this that I'll never forget.
 
 The way it works is pretty simple. All you need to do is cross and modify CRT i/o channels to create electronic synethesia (fancy speak for music visualizer). Switch x and y channels, replace video with audio to modulate the vertical deflection coil, toss in an amplifier, sprinkle in some balance-resistors, and voilà, you have an oscilloscope. Pretty simple process for a stunning result!
+
+# More Coming Soon...
