@@ -12,6 +12,7 @@ Welcome to the miscellanea section! This is where things that are too small to s
 
 Everything here is the product of a "that would be kind of cool to try" moment plus a couple hours of work. I had a blast making these and hope you enjoy, too. There's plenty more to come in the future!
 
+
 # Paddington
 {% include googleDrivePlayer.html id=page.driveID-paddington %} <br />
 
@@ -19,23 +20,52 @@ This fellow's name is Paddington. Although he's lost his blue coat and red hat, 
 
 I promise its not just an audiofile layered on top - I had to furiously type all the messages and commands each take, hence the long pauses! I actually plan to learn video editing and script-writing by making a series of skits with Paddy as the protagonist. However if you're interested in the code end of things, see [Coding (link here)] for more details!
 
-# Batter-Up
+
+<br />
+# Swing Coach
+![Swing Coach](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/batterup.JPG "dumpster fire"){: .center-image }
+
 This was a totally technology agnostic project in early school days (sophomore year?), before I knew how to make anything. The goal was to create a system to improve baseball bat-swing angle that was light weight and portable, specs predetermined. The end result was a modular stand assembly with a weight-shedded MDPE folding board.
 
-The project actually had a "client" (non-paying 3rd party), and it was my first experience with building something for someone else. It went terribly. The deliverable was 2 months late, what was delivered failed on every spec. save that it stood upright, and the other 3 team members had pretty much quit on me half-way through. Still, I'm adamant it was a valuable learning experience. I learned how to keep dying project on life support, the importance of transparency, and
+The project actually had a "client" (non-paying 3rd party), and it was my first experience with building something for someone else. It went terribly. The deliverable was 2 months late, what was delivered failed on every spec. save that it stood upright, and the other 3 team members had pretty much quit on me half-way through. Still, I'm adamant it was a valuable learning experience. I managed to keep a dying project on life support and got a major crash-course in mechanical engineering! It was my first time with tapping, mills, fusion360, and laser cutting - all tools that have become pretty integral to my fabrication skill set.
 
+
+<br />
 # Infinity Box
-I'd always wanted to make an infinity cube for a long time, and I just recently got a chance to do it.
+I'd wanted to make one of these ever since seeing my first infinity mirror, but never badly enough to make time. Well, quarantine happened and I got time. So on one fine Saturday afternoon, I set out make one with no plan - and now I have one. The box is 13" x 13" x 12" made from acrylic with a one-way mirror film and framed with right angle pine pieces from Home Depot, all held together with all-purpose epoxy. The pine frame also hides a continous LED strip soldered in parallel to cover each inside edge. Below is a picture of the box with no lid covering a ceiling light!
 
+![Infinity Box](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/infinitybox.jpg "infinity box"){: .center-image }
+
+Fun fact, the original intent for this build was to house my PC - due to eyeballed tolerances and a lack of clamps (pieces were hand together by hand while curing), it didn't quite work out.  Now it sits on my shelf as a showcase for various objects around the house. The whole experience really brought a new appreciation for having the right tools for the job (including microfiber cloths to clean the fingerprints)!
+
+
+<br />
 # Blender
+Blender was just one of those things that I decided to give a shot on a whim. I downloaded it thinking that it'd be super easy to pick it up since I have CAD sculpting experience, but boy was I wrong. My choice of learning method didn't quite speed things up either - I would skip to the hero shot of a tutorial video and try to recreate is on my own, using the actual content as hints. Solid in theory, except it took me about 6 hours to learn the complex UI that way.
 
+![Still Life](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/blender-stilllife.PNG "still life"){: .center-image }
+
+Against all self-imposed odds, I managed to push through the initial learning curve and made it to a satisfactory point in a picnic scene. The table texture is procedurally generated, the apples and knife are painted with real picture projections onto a UV unwrapping, the drops and grapes were generated with through the particle system, and the cloth and swiss cheese were positioned using the in-house physics simulator. As I said earlier, this isn't quite done. I have a list of things to add to the scene (wine bottle + glasses, pears, dates, etc...), but those will be added more leisurely since I'm comfortable where this things are.
+
+![Custom Blender](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/blender-cathy.JPG "Cathedral of Learning"){: .center-image } <br />
+
+Wow, did I really that good at Blender that I can model a near [photo-perfect scene](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/blender-cathy-compare.JPG){:target="_blank"}? Of course not, but the real answer is pretty cool as well: Google Maps satellite mode may look 2D, but it actually contains hidden GIS metadata created by IDRISI Taiga, the program used image google maps. I used RenderDoc for process injection into Google Chrome to extract the frame data into an .rdc file. With the help of extensions, Blender can interpret these files, import the height data, and skin the model according to satellite imagery. Add a point light and we have a nice sunset.
+tl;dr - I made a 3D model from  Google Maps data - pretty cool, huh?
+
+<br />
 # ACCelerate Smithsonian Exhibition - Our Time is Up
 *Our Time Is Up* was a civic engagement art exhibition at the Smithsonian (American History, Lemelson Center) for the inaugural ACCelerate Festival. The premise was a fictional audio drama made entirely from spliced bits of 2 unrelated autobiographical interviews from the [Legacy Project](https://www.legacyproject.org/){:target="_blank"}
 
 I had the wonderful opportunity of designing and working on the physical component of the project. I designed and wired the electronics for the final display - an open-air room, sparsely furnished, where the drama was supposedly taking place. The challenge was to integrate and wire 4 hidden 2-channel audio sources into the scene, and it took hollowing out everything and a lot of gaffer's tape top accomplish! Unforunately I don't have any pictures of my own, but here's the [exhibition page](http://acceleratefestival.com/acc_project/our-time-is-up/){:target="_blank"} to at least prove it exists.
 
-# Sketches
 
+<br />
+# Sketches
+Especially for engineers, the importance of sketching is super understated. It's an excellent real-time way to more clearly communicate with others and level expectations, and I'm honestly surprised how many people readily dismiss it. It's better to take 5 minutes sketching than committing hours to a CAD mock-up that the client doesn't even want. I'm definitely no artist, but I value it enough to practice! Check out some free hand samples below:
+![sketch collage](https://github.com/seth-so/portfolio/raw/master/assets/img/justcause/sketch-collage.JPG "sketch collage"){: .center-image }
+
+
+<br /><br />
 # CRT Audio Oscilloscope
 {% include googleDrivePlayer.html id=page.driveID-oscilloscope %} <br />
 
