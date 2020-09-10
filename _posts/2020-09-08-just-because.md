@@ -23,7 +23,7 @@ I promise its not just an audio file layered on top - I had to furiously type al
 
 <br />
 # Swing Coach
-![Swing Coach](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/batterup.JPG "dumpster fire"){: .center-image }
+![Swing Coach](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/batterup.JPG "swing coach"){: .center-image }
 
 This was a technology agnostic project in early school days (sophomore year?) before I knew how to make anything. The goal was to create a system to improve baseball bat-swing angle that was light weight and portable, specs predetermined. The end result was a modular stand assembly with a weight-shedded MDPE folding board.
 
