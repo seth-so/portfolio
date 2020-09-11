@@ -8,9 +8,10 @@ I'm always open to any suggestions for new projects, or questions about your own
 
 Fill in the form or [email me](mailto:{{site.email}}) to start comms:
 
-### v v v  Instant Communication Portal  v v v
+<br />
+###Instant Communication Portal:
+<br />
 
- 
 {% include form.html %}
 
 {% include modal.html %}
