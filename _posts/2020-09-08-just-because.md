@@ -49,7 +49,7 @@ Against all self-imposed odds, I managed to push through the initial learning cu
 
 ![Custom Blender](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/blender-cathy.JPG "Cathedral of Learning"){: .center-image } <br />
 
-Wow, did I really get that good at Blender that I can model a near [photo-perfect scene](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/blender-cathy-compare.JPG){:target="_blank"}? Of course not, but the real answer is pretty cool as well: Google Maps satellite mode may look 2D, but it actually contains hidden GIS metadata created by IDRISI Taiga. I used RenderDoc for process injection into Google Chrome to extract the map frame data into an .rdc file. With the help of extensions, Blender can interpret these files, import the height data, and skin the model according to satellite imagery. Add a point light and we have a nice sunset. <br /><br />
+Wow, did I really get that good at Blender that I can model a near [photo-perfect scene](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/blender-cathy-compare.JPG){:target="_blank"}? Unfortunately not, but the real answer is pretty cool as well: Google Maps satellite mode may look 2D, but it actually contains hidden GIS metadata created by IDRISI Taiga. I used RenderDoc for process injection into Google Chrome to extract the map frame data into an .rdc file. With the help of extensions, Blender can interpret these files, import the height data, and skin the model according to satellite imagery. Add a point light and we have a nice sunset. <br /><br />
 tl;dr - I made a 3D model from  Google Maps data - pretty cool, huh?
 
 <br />
@@ -71,6 +71,6 @@ Especially for engineers, the importance of sketching is super understated. It's
 
 To cap things off is a project near and dear to my heart - my first electrical engineering project. This was the very definition of an amateur experience - solo late night near-death experiences, devolving my only laptop into an uncontrollable tinnitus machine, and best of all completely blowing out a university class' iMac right before final presentations were due. There are so many stories tied to this that I'll never forget.
 
-The way it works is pretty simple. All you need to do is cross and modify CRT i/o channels to create electronic synethesia (fancy speak for music visualizer). Switch x and y channels, replace video with audio to modulate the vertical deflection coil, toss in an amplifier, sprinkle in some balance-resistors, and voilà, you have an oscilloscope. Pretty simple process for a stunning result!
+The way it works is pretty simple. All you need to do is cross CRT i/o channels to create electronic synethesia (fancy speak for music visualizer). Switch x and y channels, replace video with audio to modulate the vertical deflection coil, toss in an amplifier, sprinkle in some balance-resistors, and voilà, you have an oscilloscope. Pretty simple process for an awesome result!
 
 ## More Coming Soon...
