@@ -74,3 +74,6 @@ To cap things off is a project near and dear to my heart - my first electrical e
 The way it works is pretty simple. All you need to do is cross CRT i/o channels to create electronic synethesia (fancy speak for music visualizer). Switch x and y channels, replace video with audio to modulate the vertical deflection coil, toss in an amplifier, sprinkle in some balance-resistors, and voilà, you have an oscilloscope. Pretty simple process for an awesome result!
 
 ## More Coming Soon...
+1. Vacuum Tube Theremin - parts acquired
+2. Rover - under construction
+3. Jeff-Rosin Wooden Mirror - currently planning
