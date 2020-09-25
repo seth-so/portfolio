@@ -1,7 +1,7 @@
 ---
 layout: post
 title: just because
-summary: The Miscellaneous Projects folder! Anything not deemed a somewhat major project or code falls in to this category.
+summary: The Miscellaneous folder - the "side projects" that select engineers like to constantly bring up in conversation
 featured-img: emile-perron-190221
 categories: Fabrication Electronics Art
 driveID-paddington: 1rsv2ZqRP9BzjRxJZFjqMIgs0mYUAywrB/preview
