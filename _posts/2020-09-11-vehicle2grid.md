@@ -7,3 +7,18 @@ categories: Design, Theory, Fabrication
 driveID-oscilloscope: 1FHsHbRkRPVA9ganmYhuZUxkJi5LNIg2a/preview
 ---
 ## Introduction
+This one will read more like a story ... yada yada
+
+# Vehicle2Grid
+
+## Background
+
+## Feasibility
+
+# Initial Design
+
+# Prototyping
+
+# Final Design
+
+# Outputs
