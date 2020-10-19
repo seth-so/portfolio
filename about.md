@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+featured-img: heroshot-main
 driveID-spin: 1ll55uMolE0tvPUl93vR4pDR5D7S-POVu/preview
 driveID-somersault: 1FHsHbRkRPVA9ganmYhuZUxkJi5LNIg2a/preview
 ---
