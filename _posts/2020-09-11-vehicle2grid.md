@@ -170,17 +170,17 @@ While both of our parts certainly overlapped and we worked together throughout t
 
 My personal roles and contributions:
 1. Led hardware and construction efforts, including prototyping, designing, constructing, and wiring both initial final board + making custom connectors
-2. Troubleshot all DTC’s and came up with solutions or work arounds so that the system could interact with the car without causing errors
+2. Troubleshot DTC’s and came up with solutions or work arounds so that the system could interact with the car without causing errors
 3. Research car communication systems to conceptualize and make wakeup signal generator
 4. Programmed the user interface of the HMI and added data visualization
 5. Completed all paperwork, documentation, and ordering
 
 Nate Carnovale roles and contributions
-1. Operated and set up Microcontroller
+1. Established inter-device communication and operation
 2. Programmed Multithreaded Control logic for all system functions
 3. Created local network for data metering
 4. Performed hardware testing and verified all expected function
-5. Established inter-device communication and operation
+5. Wrote emulator for HMI
 
 ### Miscellaneous
 Final project timeline:
