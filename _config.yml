@@ -2,8 +2,8 @@
 title: some stuff i've done # your site title
 author: Seth So # You :P
 description: A compilation of some stuff I've done.
-baseurl:  # the subpath of your site, e.g. /blog
-url: "https://sethso.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://seth-so.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
