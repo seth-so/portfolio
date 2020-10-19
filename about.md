@@ -14,11 +14,5 @@ I have 2 guiding philosophes: 1. Deliberately learn to enjoy as many things as p
 
 One way or another (maybe I'm on the job hunt?), you've managed to stumble across this page. Have fun taking a look at my little museum and don't ever hesitate to reach out. Thanks for stopping by!
 
-## Some funny videos
-
-Here's a quick video of me falling down (in blue) and a video of me trying to somersault up a hill (in light gray)
-
+I'm the one in blue:
 {% include googleDrivePlayer.html id=page.driveID-spin %} <br />
-{% include googleDrivePlayer.html id=page.driveID-somersault %} <br />
-
-P.S. You can blame my friends for filming in portrait.
