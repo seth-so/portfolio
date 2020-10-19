@@ -2,8 +2,8 @@
 layout: post
 title: just because
 summary: The Miscellaneous folder - the "side projects" that select engineers like to constantly bring up in conversation
-featured-img: emile-perron-190221
-categories: Fabrication Electronics Art
+featured-img: heroshot-justcause
+categories:
 driveID-paddington: 1rsv2ZqRP9BzjRxJZFjqMIgs0mYUAywrB/preview
 driveID-oscilloscope: 1FHsHbRkRPVA9ganmYhuZUxkJi5LNIg2a/preview
 ---

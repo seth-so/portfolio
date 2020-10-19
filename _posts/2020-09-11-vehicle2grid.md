@@ -2,8 +2,8 @@
 layout: post
 title: vehicle-2-grid
 summary: Design, custom simulation, and testing of bidirectional charging loop between 2010 Chevy Volt and Eaton Power Systems Experience Center microgrid
-featured-img: emile-perron-190221
-categories: Design, Theory, Fabrication
+featured-img: heroshot-v2g
+categories:
 driveID-oscilloscope: 1FHsHbRkRPVA9ganmYhuZUxkJi5LNIg2a/preview
 ---
 ## Introduction
@@ -50,8 +50,6 @@ The microgrid at PSEC has generation sources of the utility source, a 100kW gene
 ![psec-microgrid](https://github.com/seth-so/portfolio/raw/master/assets/img/v2g/environment-psecgrid.png){: .center-image }
 
 The graph at the bottom of the interface shows the breakdown of the generation sources and fluctuations in load demand throughout the day. It is apparent that the utility (yellow) does not have a level demand curve, that the solar generation (green) is highly variable on this specific day, and the load (red) contains much variation as well. However, looking at the battery storage (blue), its clear that through the use of charging and discharging, the battery storage is able to keep the utility close to horizontal during the first section of the day with high demand by offsetting the variable load. This is exactly the idea of utilizing the battery component of an electric vehicle as an energy storage component for the purpose of utility grid stability. in this case a 16kWh-380V Chevy Volt battery
-
-![chevyvolt](https://github.com/seth-so/portfolio/raw/master/assets/img/v2g/intro-car.PNG){: .center-image }
 
 
 ## Prototyping Milestones
@@ -181,6 +179,7 @@ Nate Carnovale roles and contributions
 3. Created local network for data metering
 4. Performed hardware testing and verified all expected function
 5. Wrote emulator for HMI
+
 
 ### Miscellaneous
 Final project timeline:

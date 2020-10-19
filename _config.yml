@@ -24,7 +24,7 @@ navigation: # Navigation links
 tagline: >
   Curiosity + Know-How = Getting it Done
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/heroshot-main_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: sethso97@gmail.com # email for form submission
 
