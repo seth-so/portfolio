@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: some stuff i've done # your site title
 author: Seth So # You :P
-description: A compilation of some stuff I've done.
+description: Curiosity + Know-How = Getting It Done.
 
 #if custom domain:
 baseurl: # the subpath of your site, e.g. /blog
