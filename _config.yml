@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: some stuff i've done # your site title
 author: Seth So # You :P
-description: Curiosity + Know-How = Getting It Done.
+description: my project museum
 
 #if custom domain:
 baseurl: # the subpath of your site, e.g. /blog
@@ -28,7 +28,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Hello Nate and Mr. Carnovale
+  Curiosity + Know-How = Getting It Done.
 
 hero_img: posts/heroshot-main_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
