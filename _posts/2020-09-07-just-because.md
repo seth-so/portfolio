@@ -24,8 +24,6 @@ I promise its not just an audio file layered on top - I had to furiously type al
 
 <br />
 # Theremin
-{% include googleDrivePlayer.html id=page.driveID-theremin %} <br />
-
 Here's a theremin I made! I found a schematic from a 1961 issue of Electronics Illustrated (Rest in Peace) and immediately decided I had to make it. There are probably smaller, higher quality circuits, but the vacuum tubes really caught my interest since I'd never used them before. Breadboarding was actually pretty simple (power was landed to din rail-mounted terminal blocks). I probably should have made it on one board, but figured this way would be easier to mount different sections on the inside of a box.
 
 Pitch Antenna Modulation            |  Pitch/Volume Mixer
