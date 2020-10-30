@@ -6,6 +6,7 @@ featured-img: heroshot-justcause
 categories:
 driveID-paddington: 1rsv2ZqRP9BzjRxJZFjqMIgs0mYUAywrB/preview
 driveID-oscilloscope: 1FHsHbRkRPVA9ganmYhuZUxkJi5LNIg2a/preview
+driveID-theremin: 16tglseGb4wNgALPlMIAbMkoPkzuudzIi/preview
 ---
 ## Introduction
 Welcome to the miscellanea section! This is where things that are too small to showcase on their own go. There won't be any boring documentation, just a quick blurb to give context about what makes it cool.
@@ -19,6 +20,23 @@ Everything here is the product of a "that would be kind of cool to try" moment p
 This fellow's name is Paddington. Although he's lost his blue coat and red hat, Paddy has picked up 23 global accents - and become a spirit medium! Jokes aside, Paddington's heart runs off a RaspberryPi ZeroW and a battery pack in a recycled anti-static bag. The script loop constantly queries designated GroupMe channels looking for new messages to read out with the help of MACS, so anyone with a phone can talk though him, no set up required.
 
 I promise its not just an audio file layered on top - I had to furiously type all the messages and commands each take, hence the long pauses! I actually plan to learn video editing and script-writing by making a series of skits with Paddy as the protagonist. However if you're interested in the code end of things, I'll go a bit further in depth in the [coding section](https://seth-so.github.io/portfolio/coding/){:target="_blank"}, so head there if you want more details!
+
+
+<br />
+# Theremin
+{% include googleDrivePlayer.html id=page.driveID-theremin %} <br />
+
+Here's a theremin I made! I found a schematic from a 1961 issue of Electronics Illustrated (Rest in Peace) and immediately decided I had to make it. There are probably smaller, higher quality circuits, but the vacuum tubes really caught my interest since I'd never used them before. Breadboarding was actually pretty simple (power was landed to din rail-mounted terminal blocks). I probably should have made it on one board, but figured this way would be easier to mount different sections on the inside of a box.
+
+Pitch Antenna Modulation            |  Pitch/Volume Mixer
+:-------------------------:|:-------------------------:
+![6BE6](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/theremin-pitch.jpg) |  ![12AU7](https://github.com/seth-so/portfolio/raw/master/assets/img/justbecause/theremin-mixer.jpg)
+
+Above are the 2 most important blocks of the schematic: the pitch receiver (left) and the volume mixer (right). The pitch receiver is driven by 2 6BE6 pentagrid converters, which modulates the input capacitance with a base reference frequency. The volume mixer is driven by the 12AU7 twin triode, which rides the pitch input with volume input (antenna oscillated with 500kHz crystal). The output sensitivity, octave, and range are controlled with 2 variable inductors. If you believe it, the whole thing worked first try, save for forgetting to make a power connection.
+
+{% include googleDrivePlayer.html id=page.driveID-theremin %} <br />
+
+I still need to make a nice box for it all and actually learn a song, but that isn't too high priority. If you're interested at all in making you're own, [here's the article](https://seth-so.github.io/portfolio/justcause/Theremin 1961 Electronics illustrated.pdf){:target="_blank"} that I used. Theremin making has a pretty welcoming niche on the internet, so google away! All data sheets are widely available.
 
 
 <br />
@@ -74,6 +92,5 @@ To cap things off is a project near and dear to my heart - my first electrical e
 The way it works is pretty simple. All you need to do is cross CRT i/o channels to create electronic synethesia (fancy speak for music visualizer). Switch x and y channels, replace video with audio to modulate the vertical deflection coil, toss in an amplifier, sprinkle in some balance-resistors, and voilà, you have an oscilloscope. Pretty simple process for an awesome result!
 
 ## More Coming Soon...
-1. Vacuum Tube Theremin - built and in testing phase
 2. Rover - under construction
 3. Jeff-Rosin Wooden Mirror - currently planning
